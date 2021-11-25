@@ -1,0 +1,6 @@
+Submissions for Sainya Ranakshetram 2021 CTF .
+
+This is the tickle pickle CTF
+we got two files server.py client.py
+
+we need to exploit the pickle deserialization in the code and have written the exploit.
